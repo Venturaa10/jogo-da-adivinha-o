@@ -1,6 +1,7 @@
 import os
 import random
 
+
 def jogar():
     '''
     TITULO PERSONALIZADO

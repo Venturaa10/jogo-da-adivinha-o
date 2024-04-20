@@ -95,7 +95,7 @@ Digite o número correspondente ao nível que deseja: '''))
         '''
         # rodada = rodada +1
 
-    print('Fim de jogo\n')
+    print('Fim de jogo\n Obrigado por jogar!')
 
 if(__name__ == "__main__"):
     jogar()

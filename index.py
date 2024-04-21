@@ -4,7 +4,7 @@ import random
 
 def jogar():
     '''
-    TITULO PERSONALIZADO
+    TITULO INICIAL PERSONALIZADO
     '''
     os.system('cls')
     titulo = 'Bem vindo ao jogo de adivinhação'

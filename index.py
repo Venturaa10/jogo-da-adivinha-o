@@ -4,7 +4,7 @@ import random
 
 def jogar():
     '''
-    TITULO INICIAL PERSONALIZADO
+    Titulo inicial
     '''
     os.system('cls')
     titulo = 'Bem vindo ao jogo de adivinhação'
@@ -45,7 +45,7 @@ Digite o número correspondente ao nível que deseja: '''))
     '''
     # rodada = 1
 
-    '''LAÇOS DE REPETIÇÕES
+    '''Laços de repetições
     Enquanto rodada for menor ou igual ao número de tentativas disponiveis, o código sera executado
     .format() -> Uma outra maneira de manipular string
     print('Tentativa: {} de {}'.format(rodada,total_de_tentativas))
